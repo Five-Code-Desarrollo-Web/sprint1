@@ -5,4 +5,4 @@ Scrum Master - Jorge Andrés Fernández
 Analista=RICHARD BELLO RONCANCIO
 Desarollador=NEIMAR FELIZZOLA BERMUDEZ
 Desarrollador=CAMILO NEIRA
-Base de datos
+Base de datos=FABIAN ROCHA
