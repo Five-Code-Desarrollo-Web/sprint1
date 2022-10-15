@@ -2,7 +2,7 @@
 Roles equipo Five Code
 
 Scrum Master
-Analista
+Analista=RICHARD BELLO
 Desarollador=NEIMAR FELIZZOLA BERMUDEZ
 Desarrollador
 Base de datos
