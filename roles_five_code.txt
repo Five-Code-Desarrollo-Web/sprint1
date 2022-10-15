@@ -2,7 +2,7 @@
 Roles equipo Five Code
 
 Scrum Master - Jorge Andrés Fernández
-Analista=RICHARD BELLO
+Analista=RICHARD BELLO RONCANCIO
 Desarollador=NEIMAR FELIZZOLA BERMUDEZ
 Desarrollador=CAMILO NEIRA
 Base de datos
